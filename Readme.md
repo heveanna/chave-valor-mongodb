@@ -17,4 +17,9 @@ Demonstrar como aplicar o **modelo Chave-Valor** utilizando o MongoDB:
 
 ---
 
+# Modelagem Utilizada
+
+
+# Embedding vs Referencing
+
 
