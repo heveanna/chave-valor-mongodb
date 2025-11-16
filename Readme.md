@@ -1,7 +1,7 @@
 #  Projeto: Banco NoSQL Chave-Valor - MongoDB
 
-Este projeto tem como objetivo demonstrar, como o **MongoDB**, um banco NoSQL orientado a documentos, pode funcionar de forma extremamente eficiente como uma **loja Chave-Valor (Key-Value Store)**.  
-Apesar de não ser um banco K-V puro como Redis, o MongoDB possui características que o tornam uma solução poderosa para este modelo, principalmente por meio do campo **`_id`**, que serve como chave única para cada valor armazenado.
+Este projeto tem como objetivo demonstrar, como o **MongoDB**, um banco NoSQL orientado a documentos, pode funcionar de forma eficiente como uma **loja Chave-Valor (Key-Value Store)**.  
+O MongoDB possui características que o tornam uma solução poderosa para o modelo, principalmente por meio do campo **`_id`**, que serve como chave única para cada valor armazenado.
 
 
 #  Objetivo do Projeto
